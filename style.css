@@ -4,10 +4,36 @@
 	box-sizing: border-box;
 }
 
+header {
+	margin-top:10%;
+	font-family: monospace;
+	text-align:center;
+}
+header h1{
+	text-transform: uppercase;
+}
+header p {
+	font-size: 20px;
+}
+
+header h1{
+	padding:10px;
+}
+
+nav{
+	font-size: 20px;
+	padding:10px;
+	text-align:center;
+}
+nav a{
+	text-decoration:none;
+	color:teal;
+}
+
+
 main{
 	display: block;
 	padding: 100px;
-	border-top: 20px black;
 }
 
 #about{
