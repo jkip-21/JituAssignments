@@ -51,6 +51,8 @@ main{
 	margin-top: 120px;
 	margin-left: 150px;
 	text-align: center;
+	color: coral;
+	border-bottom: 2px dotted;
 }
 
 #about-paragraph{
