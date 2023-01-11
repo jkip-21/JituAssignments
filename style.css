@@ -83,3 +83,10 @@ main{
 	margin-bottom: 10px;
 	font-family: verdana;
 }
+.footer{
+	text-align: center;
+	color: turquoise;
+	font-weight: bold;
+	font-size: 25px;
+	padding: 20px;
+}
