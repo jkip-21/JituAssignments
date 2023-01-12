@@ -6,6 +6,7 @@
 
 .heading {
 	color: rgb(65, 83, 239);
+	color: teal;
 	font-weight: bold;
 	font-size: 40px;
 	font-family: monospace;
