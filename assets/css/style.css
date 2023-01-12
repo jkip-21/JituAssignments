@@ -86,7 +86,7 @@ main{
 
 /*Main Section end*/
 
-/*Contact form start*/
+/*Contact Page Start*/
 .container{
 	min-height: auto;
 	display: flex;
@@ -95,7 +95,13 @@ main{
 	align-items: center;
 }
 
+.contact-image{
+	align-self: auto;
+	flex-grow: 1;
+}
+
 .form-wrapper{
+	flex-grow: 3;
 	background-color: cadetblue;
 	padding: 20px;
 	border-radius: 10px;
