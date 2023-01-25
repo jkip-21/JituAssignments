@@ -122,7 +122,7 @@ main{
 }
 
 .input-group{
-	margin: 25px 20px;
+	margin: 20px 20px;
 }
 
 .input-group input[type=text]{
@@ -135,6 +135,7 @@ main{
 	width: 100%;
 	margin-top: 5px;
 	padding: 10px;
+	
 }
 
 .input-group input[type=text]:focus {
@@ -158,6 +159,14 @@ main{
 	cursor: pointer;
 	font-size: larger;
 	text-transform: uppercase;
+}
+#user{
+	display: flex;
+	font-size: 10px;	
+}
+#user input{
+	margin-left: 2rem;
+    margin-right: 0%;
 }
 
 @media only screen and (max-width: 600px) {
